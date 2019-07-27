@@ -1,0 +1,15 @@
+C:\Users\Programming4\Desktop\ExamEderCiolette\ExamEderCiolette\bin\Debug\ExamEderCiolette.exe.config
+C:\Users\Programming4\Desktop\ExamEderCiolette\ExamEderCiolette\bin\Debug\ExamEderCiolette.exe
+C:\Users\Programming4\Desktop\ExamEderCiolette\ExamEderCiolette\bin\Debug\ExamEderCiolette.pdb
+C:\Users\Programming4\Desktop\ExamEderCiolette\ExamEderCiolette\obj\Debug\ExamEderCiolette.csprojAssemblyReference.cache
+C:\Users\Programming4\Desktop\ExamEderCiolette\ExamEderCiolette\obj\Debug\ExamEderCiolette.Form1.resources
+C:\Users\Programming4\Desktop\ExamEderCiolette\ExamEderCiolette\obj\Debug\ExamEderCiolette.Main.resources
+C:\Users\Programming4\Desktop\ExamEderCiolette\ExamEderCiolette\obj\Debug\ExamEderCiolette.Properties.Resources.resources
+C:\Users\Programming4\Desktop\ExamEderCiolette\ExamEderCiolette\obj\Debug\ExamEderCiolette.csproj.GenerateResource.cache
+C:\Users\Programming4\Desktop\ExamEderCiolette\ExamEderCiolette\obj\Debug\ExamEderCiolette.csproj.CoreCompileInputs.cache
+C:\Users\Programming4\Desktop\ExamEderCiolette\ExamEderCiolette\obj\Debug\ExamEderCiolette.exe
+C:\Users\Programming4\Desktop\ExamEderCiolette\ExamEderCiolette\obj\Debug\ExamEderCiolette.pdb
+C:\Users\Programming4\Desktop\ExamEderCiolette\ExamEderCiolette\obj\Debug\ExamEderCiolette.Views.resources
+C:\Users\Programming4\Desktop\ExamEderCiolette\ExamEderCiolette\obj\Debug\ExamEderCiolette.Insert.resources
+C:\Users\Programming4\Desktop\ExamEderCiolette\ExamEderCiolette\obj\Debug\ExamEderCiolette.Delete.resources
+C:\Users\Programming4\Desktop\ExamEderCiolette\ExamEderCiolette\obj\Debug\ExamEderCiolette.Update.resources
